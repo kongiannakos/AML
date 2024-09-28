@@ -1,5 +1,7 @@
 # Anti-Money Laundering Detection with Machine Learning and GNN Approaches
 Students: Giannakos Konstantinos, Vrouvaki Evrydiki
+
+
 This project aims to detect money laundering activities using a combination of classical machine learning techniques and advanced Graph Neural Networks (GNNs). The dataset used for this project is the [IBM Transactions for Anti-Money Laundering dataset](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml/data), which contains synthetic transaction data modeling various financial activities.
 
 ## Dataset
